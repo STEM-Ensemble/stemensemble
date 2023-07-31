@@ -1,2 +1,4 @@
-<img src="stemensemble.svg"><br>
-This is a placeholder for the Stem Ensemble web presence
+|[Home ](read.md) | [Activities](activities.md) | [Who Are We?](whoarewe.md) |  [Blog](blog.md) |
+|------|------------|-------------|-----|
+![STEM Ensemble Logo](stemensemble.svg)
+
