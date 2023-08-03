@@ -5,7 +5,7 @@
 |Activity          | Description                                    | image                   |    
 |:----------------:|------------------------------------------------|:-----------------------:|
 |[Dublin Maker](http://www.dublinmaker.ie)|For the past 10 years, we have participated in this brilliant annual event|![Dublin Maker](dublinmaker.png)|
-|[RoboSlam](https://roboslam.com)|The original STEM activity that led to the development of STEM Ensemble was our first RoboSlam workshop in the Science Gallery Make Shop in 2012. We have also run this event at numerous arts festivals and science week events across the country and abroad. |![Roboslam](roboslam.png)|
+|[RoboSlam](https://roboslam.wordpress.com)|The original STEM activity that led to the development of STEM Ensemble was our first RoboSlam workshop in the Science Gallery Make Shop in 2012. We have also run this event at numerous arts festivals and science week events across the country and abroad. |![Roboslam](roboslam.png)|
 |Bioslam PPG     |An activity that we run each year for TY students during Engineers Week|![Bioslam PPG](bioslam.jpg)|
 !Breadboard Games|Another "making" activity that we ran in all Co. Wexford libraries in summer 2017|![Breadboard Games](bbgames.jpg)|
 |Grangegorman Alien Mystery| An event that we developed for Revealing Grangegorman and the Stoneybatter Festival in 2023|![Grangegorman Alien Mystery](ggalien.png)|
