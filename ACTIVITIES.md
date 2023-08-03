@@ -2,7 +2,8 @@
 |[Home](README.md) | [PROJECTS & ACTIVITIES](ACTIVITIES.md) | [Who Are We?](WHOAREWE.md) |  [Blog](BLOG.md) |
 |------|------------|-------------|-----|
 
-|----------------|------------------------------------------------|-----------------------|
+|Activity          | Description                                    | image                   |    
+|:----------------:|------------------------------------------------|:-----------------------:|
 |Dublin Maker    |For the past 10 years, we have participated in this brilliant annual event|![Dublin Maker](dublinmaker.png)|
 
 |RoboSlam        |The original STEM activity that led to the development of STEM Ensemble was our first RoboSlam workshop in the Science Gallery Make Shop in 2012. We have also run this event at numerous arts festivals and science week events across the country and abroad. |![Roboslam](roboslam.png)|
@@ -14,4 +15,4 @@
 |Grangegorman Alien Mystery| An event that we developed for Revealing Grangegorman and the Stoneybatter Festival in 2023|![Grangegorman Alien Mystery](ggalien.png)|
 
 |Quad Quest| An event that we coordinated during Revealing Grangegorman 2023, it allowed families with young children to directly experience STEM activities|![Quad Quest](quadquest.png)|
-|----------------|------------------------------------------------|-----------------------|
+
