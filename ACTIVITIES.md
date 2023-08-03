@@ -2,7 +2,7 @@
 |[Home](README.md) | [PROJECTS & ACTIVITIES](ACTIVITIES.md) | [Who Are We?](WHOAREWE.md) |  [Blog](BLOG.md) |
 |------|------------|-------------|-----|
 
-|Dublin Maker    |For the past 10 years, we have participated in this brilliant annual event|![Dublin Maker](dublinmaker.jpg)|
+|Dublin Maker    |For the past 10 years, we have participated in this brilliant annual event|![Dublin Maker](dublinmaker.png)|
 |----------------|------------------------------------------------|-----------------------|
 |RoboSlam        |The original STEM activity that led to the development of STEM Ensemble was our first RoboSlam workshop in the Science Gallery Make Shop in 2012. We have also run this event at numerous arts festivals and science week events across the country and abroad. |![Roboslam](roboslam.png)|
 |----------------|------------------------------------------------|-----------------------|
