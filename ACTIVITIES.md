@@ -12,5 +12,5 @@
 |----------------|------------------------------------------------|--------------------------|
 |Grangegorman Alien Mystery| An event that we developed for Revealing Grangegorman and the Stoneybatter Festival in 2023|![Grangegorman Alien Mystery](ggalien.png)|
 |----------------|------------------------------------------------|--------------------------|
-|Quad Quest| An event that we coordinated during Revealing Grangegorman 2023, it allowed families with young children to directly experience STEM activities|![Quad Quest](quadquest.jpg)|
+|Quad Quest| An event that we coordinated during Revealing Grangegorman 2023, it allowed families with young children to directly experience STEM activities|![Quad Quest](quadquest.png)|
 |----------------|------------------------------------------------|--------------------------|
