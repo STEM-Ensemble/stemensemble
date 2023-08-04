@@ -1,4 +1,4 @@
-![STEM Ensemble Banner](stemensemblebanner.svg)
+![STEM Ensemble Banner](stemensemblebanner.svg) <br>
 |[HOME](README.md) | [Projects & Activities](ACTIVITIES.md) | [Who Are We?](WHOAREWE.md) |  [Blog](BLOG.md) |
 |------|------------|-------------|-----|
 
